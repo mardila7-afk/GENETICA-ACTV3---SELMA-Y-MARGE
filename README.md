@@ -1,2 +1,4 @@
 # GENETICA-ACTV3---SELMA-Y-MARGE
- A partir de una muestra de raspado bucal de varios miembros de la familia Simpson y otros familiares (figura 1), se realiza un análisis de exoma completo en busca de las patologías hereditarias que pudieran padecer. El laboratorio envía los archivos .vcf y el genetista debe realizar la anotación de variantes para encontrar las mutaciones.
+ A partir de una muestra de raspado bucal de varios miembros de la familia Simpson y otros familiares, se realiza un análisis de exoma completo en busca de las patologías hereditarias que pudieran padecer. El laboratorio envía los archivos .vcf y el genetista debe realizar la anotación de variantes para encontrar las mutaciones.
+INTRODUCTION
+La interpretación de variantes en individuos relacionados proporciona un contexto crítico para distinguir la herencia patogénica de la variación benigna. Aquí presentamos un análisis comparativo mediante el Predictor de Efecto de Variantes (VEP) de dos mujeres emparentadas, Marge y Selma, identificadas como portadoras de variantes en los genes LEPR y MED12 mediante secuenciación de exoma completo alineada con el genoma de referencia humano (GRCh38).
