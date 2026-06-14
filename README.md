@@ -3,6 +3,7 @@
 
 
 INTRODUCTION
+
 La interpretación de variantes en individuos relacionados proporciona un contexto crítico para distinguir la herencia patogénica de la variación benigna. Aquí presentamos un análisis comparativo mediante el Predictor de Efecto de Variantes (VEP) de dos mujeres emparentadas, Marge y Selma, identificadas como portadoras de variantes en los genes LEPR y MED12 mediante secuenciación de exoma completo alineada con el genoma de referencia humano (GRCh38).
 
 
@@ -15,6 +16,7 @@ Se realizó la secuenciación del exoma completo de dos mujeres emparentadas (Ma
 
 
 DISCUSSION
+
 Las variantes identificadas en Marge como en Selma se consideran patogénicas basándose en sus consecuencias funcionales y en las asociaciones con enfermedades mencionadas. La variante de “frameshift” cambio de nucleótido, en el gen LEPR altera el dominio de señalización intracelular del receptor de leptina, anulando la señalización de saciedad mediada por las vías JAK2/STAT3 y PI3K/AKT, y predisponiendo a obesidad grave de inicio temprano. Ambas personas son heterocigotas para esta variante, lo cual es consistente con la condición de herencia autosómica recesiva. Selma presenta una segunda variante en el sitio aceptor de splice acceptor del gen LEPR en el alelo opuesto, lo que establece una heterocigosidad compuesta y una pérdida de función alélica, suficiente para producir el fenotipo completo de deficiencia de *LEPR*. La variante de cambio de aminoácido, deleción, en el gen MED12, heterocigoto en ambas mujeres en el cromosoma X, alterando la regulación transcripcional en el músculo uterino, causante de los fibromas uterinos. En conjunto, estos hallazgos respaldan una clasificación patogénica para ambos loci; Selma presenta un riesgo clínico significativamente mayor debido a su genotipo de heterocigosidad compuesta en LEPR, las dos requieren vigilancia ginecológica dada su variante compartida en MED12.
 
 
